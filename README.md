@@ -14,6 +14,12 @@ Welcome to the Python Learning Resources repository! This repository contains va
    - A handy reference notebook for common Python syntax and commands.
    - Designed to be a quick lookup guide for basic Python operations.
    - Covers essential topics like list comprehensions, string manipulation, file handling, and more.
+  
+3. **NumPy.ipynb**
+   - A detailed introduction to NumPy, a powerful numerical computing library in Python.
+   - Covers essential topics such as arrays, matrices, and various mathematical operations.
+   - Includes hands-on examples and exercises to deepen understanding.
+   - Perfect for both beginners and experienced coders looking to enhance their numerical computing skills.
 
 ## Getting Started
 
